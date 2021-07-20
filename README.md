@@ -34,3 +34,19 @@ Tampilan ambil antrian
 Tampilan Login
 
 ![Tampilan login](https://user-images.githubusercontent.com/81503668/126308646-bd30387e-fad4-4722-b2e5-8b6c3b785707.JPG)
+
+
+Tampilan operator loket
+
+![panggil antrian](https://user-images.githubusercontent.com/81503668/126310067-3f73914b-eeac-4714-8d71-0d153fe49ef6.JPG)
+
+di tampilan ini operator loket akan menekan antrian selanjutnya untuk mengambil nomer antrian yg telah di ambil, kemudian di panggil ke loket.
+contoh antrian nomer satu di loket 1.
+
+![antrian di loket 1](https://user-images.githubusercontent.com/81503668/126310539-5ce676e6-f3e8-4335-8fae-127c1a251f5a.JPG)
+
+contoh ke 2
+nomer antrian 2, operator loket 3 menekan antrian selankutnya.
+
+![antrian di loket 3](https://user-images.githubusercontent.com/81503668/126310807-75a4e24a-4daa-467a-a88e-a5baeeba7d1d.JPG)
+
