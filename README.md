@@ -57,7 +57,7 @@ contoh antrian nomer satu di loket 1.
 ![antrian di loket 1](https://user-images.githubusercontent.com/81503668/126310539-5ce676e6-f3e8-4335-8fae-127c1a251f5a.JPG)
 
 contoh ke 2
-nomer antrian 2, operator loket 3 menekan antrian selankutnya.
+nomer antrian 2, operator loket 3 menekan antrian selanjutnya. maka antrian nomer 2 di loket 3.
 
 ![antrian di loket 3](https://user-images.githubusercontent.com/81503668/126310807-75a4e24a-4daa-467a-a88e-a5baeeba7d1d.JPG)
 
