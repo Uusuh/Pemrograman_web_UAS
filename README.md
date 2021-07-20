@@ -21,6 +21,8 @@ Tampilan Awal
 
 Tampilan ambil antrian
 
+![tampilan ambil antian](https://user-images.githubusercontent.com/81503668/126308260-85a3d619-2e3e-49ec-aa42-557537166dff.JPG)
+
 ![ambil antian](https://user-images.githubusercontent.com/81503668/126308049-c583e584-f154-43e4-84b0-fb019160c1ba.jpg)
 
 ![ambil nomer antian](https://user-images.githubusercontent.com/81503668/126308086-57027703-a73f-4d4d-84a0-0f28fb5ea7a0.JPG)
