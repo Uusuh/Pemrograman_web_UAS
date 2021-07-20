@@ -1,6 +1,6 @@
 # Pemrograman_web_UAS
 
-Nama  :Uus Uyun Harun
+Nama  : Uus Uyun Harun
 
 Kelas : TI.19.B1
 
