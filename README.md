@@ -23,6 +23,12 @@ Tampilan Awal
 
 Tampilan ambil antrian
 
+untuk menganbil antrian,di tampilan awal pengunjung pilih ambil antrian pada tanda panah warna.
+
+maka akan di arahkan ke tampilan selanjutnya kemudian pilih dapatkan nomer antrian.
+
+Kemudian pilih print.
+
 ![tampilan ambil antian](https://user-images.githubusercontent.com/81503668/126308485-357bea56-77ea-41fe-9948-6732d653178b.JPG)
 
 
