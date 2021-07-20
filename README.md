@@ -23,7 +23,7 @@ Tampilan Awal
 
 Tampilan ambil antrian
 
-untuk menganbil antrian,di tampilan awal pengunjung pilih ambil antrian pada tanda panah warna.
+untuk menganbil antrian,di tampilan awal pengunjung pilih ambil antrian pada tanda panah.
 
 maka akan di arahkan ke tampilan selanjutnya kemudian pilih dapatkan nomer antrian.
 
@@ -40,6 +40,11 @@ Kemudian pilih print.
 Tampilan Login
 
 ![Tampilan login](https://user-images.githubusercontent.com/81503668/126308646-bd30387e-fad4-4722-b2e5-8b6c3b785707.JPG)
+
+bila masuk sebagai admin maka akan muncul tampilan sebagai berukut :
+
+
+![Tampilan admin](https://user-images.githubusercontent.com/81503668/126330764-2da905c6-3e86-4db0-95b7-598508b34bb5.JPG)
 
 
 Tampilan operator loket
